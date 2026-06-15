@@ -2,6 +2,8 @@
 
 A Telegram bot for [Nado DEX](https://nado.xyz) that monitors your trades and positions in real time.
 
+You can find the bot on Telegram at @nado_alertstracker_bot
+
 ## Features
 
 - **Order fill alerts** - instant notification when any of your orders is executed
