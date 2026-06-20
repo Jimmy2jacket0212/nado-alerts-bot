@@ -1,4 +1,4 @@
-![Uploading welcome.jpg…]()
+<img width="1920" height="1080" alt="welcome" src="https://github.com/user-attachments/assets/6f49f4bd-ab94-4bdf-9db5-f28c3f4c5845" />
 # Nado AlertsBot
 
 A Telegram bot for [Nado DEX](https://nado.xyz) that monitors your trades and positions in real time.
