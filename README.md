@@ -1,3 +1,4 @@
+![Uploading welcome.jpg…]()
 # Nado AlertsBot
 
 A Telegram bot for [Nado DEX](https://nado.xyz) that monitors your trades and positions in real time.
